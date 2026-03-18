@@ -3,16 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\data\\lazarodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\lazarodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\data\\valledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\valledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\data\\lazarodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\lazarodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\serviciomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\serviciomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\familiaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\familiaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\usersespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\usersespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\tiposarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\tiposarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\articuloscuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\articuloscuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\agendacirugia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\agendacirugia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\notaegreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\notaegreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\notapostoperatoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\notapostoperatoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\cuentaspacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\cuentaspacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\entities\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:entities\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\auditoria04.hrsj\\documents\\mi primera api\\miprimeraapi\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,11 +106,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Especialidad.cs",
+              "RelativeDocumentMoniker": "Entities\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Especialidad.cs",
+              "RelativeToolTip": "Entities\\Especialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:54:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioMedico.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\ServicioMedico.cs",
+              "RelativeDocumentMoniker": "Entities\\ServicioMedico.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\ServicioMedico.cs",
+              "RelativeToolTip": "Entities\\ServicioMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:50:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "Entities\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Habitaciones.cs",
+              "RelativeToolTip": "Entities\\Habitaciones.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA6wH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:48:17.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FamiliaArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\FamiliaArticulos.cs",
+              "RelativeDocumentMoniker": "Entities\\FamiliaArticulos.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\FamiliaArticulos.cs",
+              "RelativeToolTip": "Entities\\FamiliaArticulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:44:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersEspecialidad.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\UsersEspecialidad.cs",
+              "RelativeDocumentMoniker": "Entities\\UsersEspecialidad.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\UsersEspecialidad.cs",
+              "RelativeToolTip": "Entities\\UsersEspecialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:42:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TiposArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\TiposArticulos.cs",
+              "RelativeDocumentMoniker": "Entities\\TiposArticulos.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\TiposArticulos.cs",
+              "RelativeToolTip": "Entities\\TiposArticulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:40:57.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Articulos.cs",
+              "RelativeDocumentMoniker": "Entities\\Articulos.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Articulos.cs",
+              "RelativeToolTip": "Entities\\Articulos.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:39:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LazaroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\LazaroDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LazaroDbContext.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\LazaroDbContext.cs",
+              "RelativeToolTip": "Data\\LazaroDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T19:44:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\ValleDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ValleDbContext.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\ValleDbContext.cs",
+              "RelativeToolTip": "Data\\ValleDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T19:46:33.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticulosCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\ArticulosCuenta.cs",
+              "RelativeDocumentMoniker": "Entities\\ArticulosCuenta.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\ArticulosCuenta.cs",
+              "RelativeToolTip": "Entities\\ArticulosCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:37:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotaEgreso.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\NotaEgreso.cs",
+              "RelativeDocumentMoniker": "Entities\\NotaEgreso.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\NotaEgreso.cs",
+              "RelativeToolTip": "Entities\\NotaEgreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:17:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotaPostOperatoria.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\NotaPostOperatoria.cs",
+              "RelativeDocumentMoniker": "Entities\\NotaPostOperatoria.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\NotaPostOperatoria.cs",
+              "RelativeToolTip": "Entities\\NotaPostOperatoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:12:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Factura.cs",
+              "RelativeDocumentMoniker": "Entities\\Factura.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Factura.cs",
+              "RelativeToolTip": "Entities\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:06:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgendaCirugia.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\AgendaCirugia.cs",
+              "RelativeDocumentMoniker": "Entities\\AgendaCirugia.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\AgendaCirugia.cs",
+              "RelativeToolTip": "Entities\\AgendaCirugia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:00:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Users.cs",
+              "RelativeToolTip": "Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:57:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CuentasPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\CuentasPacientes.cs",
+              "RelativeDocumentMoniker": "Entities\\CuentasPacientes.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\CuentasPacientes.cs",
+              "RelativeToolTip": "Entities\\CuentasPacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:49:47.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Visita.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Visita.cs",
+              "RelativeDocumentMoniker": "Entities\\Visita.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Visita.cs",
+              "RelativeToolTip": "Entities\\Visita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:42:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Pacientes.cs",
+              "RelativeDocumentMoniker": "Entities\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Pacientes.cs",
+              "RelativeToolTip": "Entities\\Pacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:40:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Agenda.cs",
+              "RelativeDocumentMoniker": "Entities\\Agenda.cs",
+              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Entities\\Agenda.cs",
+              "RelativeToolTip": "Entities\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:30:35.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -55,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "ConexionController.cs",
               "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Controllers\\ConexionController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConexionController.cs",
@@ -63,38 +378,11 @@
               "RelativeToolTip": "Controllers\\ConexionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:53:23.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T19:53:23.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValleDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\ValleDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ValleDbContext.cs",
-              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\ValleDbContext.cs",
-              "RelativeToolTip": "Data\\ValleDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:46:33.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LazaroDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\LazaroDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\LazaroDbContext.cs",
-              "ToolTip": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Data\\LazaroDbContext.cs",
-              "RelativeToolTip": "Data\\LazaroDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:44:23.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
@@ -102,12 +390,11 @@
               "RelativeToolTip": "Controllers\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:34:42.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:34:42.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -115,12 +402,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T17:16:52.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:16:52.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\auditoria04.HRSJ\\Documents\\Mi primera API\\MiPrimeraAPI\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -128,8 +414,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T17:01:50.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:01:50.017Z"
             }
           ]
         }
